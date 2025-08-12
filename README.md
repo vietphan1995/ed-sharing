@@ -1,6 +1,8 @@
-# Ed sharing
+# ed-sharing
 
-# Introduction
+## Ed sharing
+
+### Introduction
 
 [https://github.com/vietphan1995/ed-sharing.git](https://github.com/vietphan1995/ed-sharing.git)
 
@@ -14,7 +16,7 @@ Ed sharing helps integrating email template rendering endpoint in your system.
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Ed-sharing-1b55e832d6ee80fda761fb086176db3d
+https://phantrungviet.notion.site/ed-sharing-1b55e832d6ee80fda761fb086176db3d
