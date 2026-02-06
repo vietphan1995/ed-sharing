@@ -23,4 +23,4 @@ Ed sharing helps integrating email template rendering endpoint in your system.
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/ed-sharing-1b55e832d6ee80fda761fb086176db3d
+https://maianhcorporation.notion.site/ed-sharing-1b55e832d6ee80fda761fb086176db3d
